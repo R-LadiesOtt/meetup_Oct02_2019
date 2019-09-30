@@ -7,6 +7,7 @@ For this event, we will be using data from the National Health Interview Survey 
 We have included in this repository a basic R code to load this data into R. This is not a mandatory step for everyone to take, there are other ways of loading these data, this is just intented to help people get started.
 
 First, you will need to download the data from the website. To run the code LoadData.R, you will need to download the csv household file, as shown in the picture below.
-[](https://github.com/R-LadiesOtt/meetup_Oct02_2019/blob/master/RladiesOct2.PNG)
 
-You also download the Variable Summary and Variabke Layout.
+![](https://github.com/R-LadiesOtt/meetup_Oct02_2019/blob/master/RladiesOct2.PNG)
+
+You also download the Variable Summary and Variable Layout.
